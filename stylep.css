@@ -156,18 +156,15 @@ margin: 200px 30px 100px 30px;
        color: white;
        padding-top: 10px;
    }
-   .contact form .input-box input,
-   .contact form textarea{
-    width: auto;
-    padding: 5px;
-    font-size: 25px;
+   .contact form .input-box input{
+    padding: 15px;
+    width: 200px;
     display: block;
-    color: white;
-    background-color: black;
+    background-color: #050505;
+    color: grey;
     border-radius: 12px;
     border: 1px solid var(--main-color);
     margin: 30px 0;
-    resize: none;
    }
    .footer{
     background-color: #050505;
@@ -197,4 +194,4 @@ margin: 200px 30px 100px 30px;
     text-align: center;
     margin-top: 40px;
     font-size: 16px;
-   }
+      }
