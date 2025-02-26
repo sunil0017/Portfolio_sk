@@ -72,6 +72,7 @@ b{
 }
 .back{
     width: 100%;
+    max-width: 550px;
     overflow: hidden;
 }
 .blur{
@@ -191,4 +192,4 @@ b{
 .qual_box{
     max-width: 500px;
 }
-               }
+}
